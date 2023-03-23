@@ -1,11 +1,22 @@
 
-![](https://github-readme-stats.vercel.app/api?username=kamalsoni000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalsoni000&layout=compact)](https://github.com/kamalsoni000/github-readme-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalsoni000&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  </a>
+</div>
 
+<hr/>
+
+<div align="center" >
+<a href="https://github.com/kamalsoni000/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalsoni000&layout=compact" />
+</a>
+</div>
+
+<br/>
 
 <div id="header">
-  
   <div id="badges">
   <div align="center">
     <a href="https://www.linkedin.com/in/kamal-soni-42618b229">
@@ -20,11 +31,5 @@
   </div>
 </div>
   
-<hr/>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalsoni000&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  </a>
-</div>
 
