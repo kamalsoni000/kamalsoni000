@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📫 Reach me:
+- website : www.kamalsoni.in
+- E-mail : sonikamal99505@gmail.com
+- Linkedin : https://www.linkedin.com/in/kamal-soni-42618b229
