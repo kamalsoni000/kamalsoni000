@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=kamalsoni000)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalsoni000&layout=compact)](https://github.com/kamalsoni000/github-readme-stats)
+
 <!--
 **kamalsoni000/kamalsoni000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
